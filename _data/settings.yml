@@ -17,10 +17,6 @@ author:
 #-------------------------------
 # Contact links
 twitter: https://twitter.com/MinasKaramanis # Add your Twitter handle
-#facebook: https://facebook.com/ # Add your Facebook handle
-#dribbble: https://dribbble.com/ # Add your Dribbble handle
-#instagram: https://instagram.com/ # Add your Instagram handle
-#pinterest: https://pinterest.com/ # Add your Pinterest handle
 github: https://github.com/minaskar
 mail: mailto:minas.karamanis@ed.ac.uk
 
@@ -33,7 +29,7 @@ disqus-identifier: minaskar # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: minas_kar_11 # Add instagram username
 
 
 #-------------------------------
